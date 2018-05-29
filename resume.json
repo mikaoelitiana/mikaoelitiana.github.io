@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mika ANDRIANARIJAONA",
-    "label": "Programmer",
+    "label": "Développeur",
     "picture": "",
     "email": "mikaoelitiana@gmail.com",
     "phone": "(+33) 06 22 454 64 71",
@@ -94,6 +94,11 @@
   ],
   "publications": [
     {
+      "name": "Un dépôt Github comme CV",
+      "publisher": "Mika ANDRIANARIJAONA",
+      "releaseDate": "2018-05-29",
+      "website": "https://mikaoelitiana.name/fr/un-depot-github-comme-cv/",
+      "summary": "Créer son CV à la manière geek et le publier sur Github Pages avec Travis CI"
     }
   ],
   "skills": [
