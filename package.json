@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "CV de Mika ANDRIANARIJAONA",
+  "main": "resume.json",
+  "scripts": {
+    "test": "./node_modules/.bin/resume test",
+    "export-html": "./node_modules/.bin/resume export index --format html --theme kwan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaoelitiana/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikaoelitiana/resume/issues"
+  },
+  "homepage": "https://github.com/mikaoelitiana/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-kwan": "0.0.2",
+    "resume-cli": "^0.4.19"
+  }
+}
