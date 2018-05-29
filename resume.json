@@ -16,9 +16,14 @@
     },
     "profiles": [
       {
+        "network": "Github",
+        "username": "mikaoelitiana",
+        "url": "https://github.com/mikaoelitiana"
+      },
+      {
         "network": "Twitter",
         "username": "mikaoelitiana",
-        "url": ""
+        "url": "https://twitter.com/mikaoelitiana"
       },
       {
         "network": "Linkedin",
