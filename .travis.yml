@@ -1,3 +1,10 @@
+language: node_js
+node_js:
+  - "7"
+before_script:
+  - npm install
+script:
+  - npm run export-html
 deploy:
   provider: pages
   skip-cleanup: true
