@@ -142,6 +142,18 @@
     {
       "language": "Français",
       "fluency": "Natif"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Bon"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Niveau Lycée"
+    },
+    {
+      "language": "Malgache",
+      "fluency": "Natif"
     }
   ],
   "interests": [
@@ -155,7 +167,7 @@
     {
       "name": "Musique",
       "keywords": [
-        "Buitare basse"
+        "Guitare basse"
       ]
     }
   ],
