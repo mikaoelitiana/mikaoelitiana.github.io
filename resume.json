@@ -59,22 +59,36 @@
         "Gestion de projet et de l'équipe de développement autour de la méthode agile Kanban",
         "Création et mise en place d'outils pour améliorer le suivi de projet (https://github.com/tagip/forest-guard, https://github.com/tagip/votabia)"
       ]
+    },
+    {
+      "organization": "Netapsys Madagascar",
+      "position": "Chef de projet et développeur Drupal",
+      "website": "http://netapsys.fr/",
+      "startDate": "2012-08-01",
+      "endDate": "2015-07-30",
+      "summary": "Netapsys est une société de service informatique travaillant avec des grands client à Madagascar et en France",
+      "highlights": [
+        "Développement de projets avec Drupal 6 & 7, Wordpress et Joomla",
+        "Analyse des besoins clients, étude technique et estimation des charges",
+        "Création de modules personnalisés",
+        "Gestion de projet et de l'équipe de développement autour de la méthode agile Scrum",
+        "Déploiement sur les différents environnements",
+        "Optimisation des performances avec Boost, Varnish",
+        "Configuration de moteurs de recherche avec Solr"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "TAG-IP",
-      "position": "Chef de projet et développeur lead",
-      "website": "http://tag-ip.com/",
+      "organization": "Mattermost",
+      "position": "Développeur React",
+      "website": "https://github.com/mattermost",
       "startDate": "2015-08-01",
-      "endDate": "2017-12-31",
-      "summary": "TAG-IP développe une solution pour le suivi d'une flotte de véhicule par GPS.",
+      "summary": "Mattermost est un outil open source de collaboration et de discussion",
       "highlights": [
-        "Développement de l'API et de micro-services avec Node.JS et Elixir",
-        "Création d'applications clients avec AngularJS, React et React Native",
-        "Mise en place du système d'intégration continue et de déploiement continue avec Gitlab CI, Docker et Rancher",
-        "Gestion de projet et de l'équipe de développement autour de la méthode agile Kanban",
-        "Création et mise en place d'outils pour améliorer le suivi de projet (https://github.com/tagip/forest-guard, https://github.com/tagip/votabia)"
+        "Correction de bugs",
+        "Création de nouvelles fonctionnalités",
+        "Participation à des meetups et rencontres avec les autres collaborateurs "
       ]
     }
   ],
@@ -104,18 +118,20 @@
   "skills": [
     {
       "name": "Développement Web",
-      "level": "Master",
+      "level": "Avancé",
       "keywords": [
         "HTML",
         "CSS",
         "Javascript",
         "React",
-        "AngularJs"
+        "AngularJs",
+        "Drupal",
+        "Wordpress"
       ]
     },
     {
       "name": "Développement Mobile",
-      "level": "Master",
+      "level": "Avancé",
       "keywords": [
         "React Native",
         "Objective C"
