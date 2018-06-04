@@ -113,6 +113,13 @@
       "releaseDate": "2018-05-29",
       "website": "https://mikaoelitiana.name/fr/un-depot-github-comme-cv/",
       "summary": "Créer son CV à la manière geek et le publier sur Github Pages avec Travis CI"
+    },
+    {
+      "name": "React Native Android – Générer versionCode et versionName depuis package.json",
+      "publisher": "Mika ANDRIANARIJAONA",
+      "releaseDate": "2018-06-04",
+      "website": "https://mikaoelitiana.name/fr/react-native-android-generer-versioncode-et-versionname-depuis-package-json/",
+      "summary": "Faciliter les changements à faire lors de la création d'une nouvelle version d'un projet React Native Android"
     }
   ],
   "skills": [
