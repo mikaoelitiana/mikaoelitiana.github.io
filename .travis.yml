@@ -5,7 +5,6 @@ before_script:
   - npm install
 script:
   - npm run export-html
-  - npm run export-pdf
 deploy:
   provider: pages
   skip-cleanup: true
