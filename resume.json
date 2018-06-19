@@ -120,6 +120,13 @@
       "releaseDate": "2018-06-04",
       "website": "https://mikaoelitiana.name/fr/react-native-android-generer-versioncode-et-versionname-depuis-package-json/",
       "summary": "Faciliter les changements à faire lors de la création d'une nouvelle version d'un projet React Native Android"
+    },
+    {
+      "name": "Générer un rapport de couverture de tests avec Jest et Jenkins",
+      "publisher": "Mika ANDRIANARIJAONA",
+      "releaseDate": "2018-06-19",
+      "website": "https://mikaoelitiana.name/fr/generer-un-rapport-de-couverture-de-tests-avec-jest-et-jenkins/",
+      "summary": "Dans cet article, j’explique comment publier un rapport de couverture de tests exécutés par Jest dans les builds automatiques Jenkins."
     }
   ],
   "skills": [
@@ -142,6 +149,14 @@
       "keywords": [
         "React Native",
         "Objective C"
+      ]
+    },
+    {
+      "name": "Automatisation",
+      "level": "Avancé",
+      "keywords": [
+        "Jenkins",
+        "Gitlab CI"
       ]
     }
   ],
