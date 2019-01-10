@@ -42,8 +42,7 @@
       "highlights": [
         "Création d'applications React/React Native et intégration avec Redux/Redux Saga ainsi que GraphQL",
         "Etude et mise en place de l'architecture des applications",
-        "Mise en place du système d'intégration continue avec Jenkins et Azure Devops",
-        "Gestion de la publication sur les stores"
+        "Mise en place du système d'intégration continue avec Jenkins"
       ]
     },
     {
