@@ -20,6 +20,6 @@
   "homepage": "https://github.com/mikaoelitiana/resume#readme",
   "dependencies": {
     "jsonresume-theme-kwan": "0.0.2",
-    "resume-cli": "^1.1.2"
+    "resume-cli": "^1.2.7"
   }
 }
