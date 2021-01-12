@@ -34,10 +34,21 @@
   },
   "work": [
     {
+      "company": "Alkemics",
+      "position": "Software engineer",
+      "website": "https://alkemics.com",
+      "startDate": "2020-10-01",
+      "summary": "Alkemics est une plateforme d'echange de données et de collaboration entre producteurs et distributeurs.",
+      "highlights": [
+        "Stack: React, Python, Go, MySQL, Elastic Search",
+      ]
+    },
+    {
       "company": "INEAT",
       "position": "Ingénieur d'étude et développement",
       "website": "http://ineat-conseil.fr",
       "startDate": "2018-01-08",
+      "endDate": "2020-10-01",
       "summary": "INEAT est une société de service informatique dans laquelle j'interviens sur des projets Javascript",
       "highlights": [
         "Création d'applications React/React Native et intégration avec Redux/Redux Saga ainsi que GraphQL",
