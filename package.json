@@ -5,7 +5,8 @@
   "main": "resume.json",
   "scripts": {
     "test": "./node_modules/.bin/resume test",
-    "export-html": "./node_modules/.bin/resume export index --format html --theme kwan"
+    "export-html": "./node_modules/.bin/resume export index --format html --theme kwan",
+    "export-pdf": "./node_modules/.bin/resume export mika-andrianarijaona --format pdf --theme kwan"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,7 @@
   },
   "homepage": "https://github.com/mikaoelitiana/resume#readme",
   "dependencies": {
-    "jsonresume-theme-kwan": "0.0.2",
-    "resume-cli": "^0.4.19"
+    "jsonresume-theme-kwan": "git+https://github.com/mikaoelitiana/jsonresume-theme-kwan-fr.git",
+    "resume-cli": "^3.0.4"
   }
 }
