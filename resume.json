@@ -6,7 +6,7 @@
     "email": "mikaoelitiana@gmail.com",
     "phone": "(+33) 06 22 45 64 71",
     "website": "https://mikaoelitiana.name",
-    "summary": "Passioné par la programmation depuis l'adoléscence, j'ai commencé à programmer sur une vielle calculatrice SHARP EL-5500 de mon père avec le language Basic. J'ai par la suite décidé de suivre une école d'informatique pour approfondir mes connaissance et pouvoir vivre de cette passion. Je travaille aujourd'hui comme dévéloppeur Javascript ainsi que d'autres techologies selon les besoins. J'ai une expérience très riche avec React, React Native, Node.js, Elixir, Objective C et Java ou Python. J'utilise au quotidien plusieurs outils et technologie d'intégration continu et de devops comme Docker, Gitlab Ci ou Jenkins.",
+    "summary": "Passioné par la programmation depuis l'adoléscence, j'ai commencé à programmé sur une vielle calculatrice SHARP EL-5500 de mon père avec le language Basic. J'ai par la suite décidé de suivre une école d'informatique pour approfondir mes connaissance et pouvoir vivre de cette passion. Je travaille aujourd'hui comme dévéloppeur Javascript assicié à d'autres techologies selon les besoin. J'ai une expérience très riche avec React, React Native, Node.js, Elixir, Objective C et Java ou Python. J'utilise au quotidien plusieurs outils et technologie d'intégration continu et de devops comme Docker, Gitlab Ci ou Jenkins.",
     "location": {
       "address": "20 rue de Montesson",
       "postalCode": "95870",
@@ -40,7 +40,7 @@
       "startDate": "2020-10-01",
       "summary": "Alkemics est une plateforme d'echange de données et de collaboration entre producteurs et distributeurs.",
       "highlights": [
-        "Stack: React, Python, Go, MySQL, Elastic Search"
+        "Stack: React, Python, Go, MySQL, Elastic Search",
       ]
     },
     {
@@ -123,7 +123,8 @@
       "startDate": "2005-11-01",
       "endDate": "2011-08-01",
       "gpa": "",
-      "courses": []
+      "courses": [
+      ]
     }
   ],
   "awards": [
