@@ -40,7 +40,7 @@
       "startDate": "2020-10-01",
       "summary": "Alkemics est une plateforme d'echange de données et de collaboration entre producteurs et distributeurs.",
       "highlights": [
-        "Stack: React, Python, Go, MySQL, Elastic Search"
+        "Stack: React, Python, Go, MySQL, Elastic Search",
       ]
     },
     {
@@ -123,7 +123,8 @@
       "startDate": "2005-11-01",
       "endDate": "2011-08-01",
       "gpa": "",
-      "courses": []
+      "courses": [
+      ]
     }
   ],
   "awards": [
