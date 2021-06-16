@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mika ANDRIANARIJAONA",
-    "label": "Développeur",
+    "label": "Développeur web senior",
     "picture": "",
     "email": "mikaoelitiana@gmail.com",
     "phone": "(+33) 06 22 45 64 71",
@@ -39,7 +39,9 @@
       "website": "https://alkemics.com",
       "startDate": "2020-10-01",
       "summary": "Alkemics est une plateforme d'echange de données et de collaboration entre producteurs et distributeurs.",
-      "highlights": ["Stack: React, Python, Go, MySQL, Elastic Search"]
+      "highlights": [
+        "Stack: React, Typescript, Python, Go, MySQL, Elastic Search"
+      ]
     },
     {
       "company": "INEAT",
