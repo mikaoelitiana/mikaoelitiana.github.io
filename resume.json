@@ -39,9 +39,7 @@
       "website": "https://alkemics.com",
       "startDate": "2020-10-01",
       "summary": "Alkemics est une plateforme d'echange de données et de collaboration entre producteurs et distributeurs.",
-      "highlights": [
-        "Stack: React, Python, Go, MySQL, Elastic Search",
-      ]
+      "highlights": ["Stack: React, Python, Go, MySQL, Elastic Search"]
     },
     {
       "company": "INEAT",
@@ -64,9 +62,7 @@
       "startDate": "2017-01-08",
       "endDate": "2018-01-07",
       "summary": "Cooptalis st une agence de mobilité collaborant avec plusieurs acteurs de l'informatique. Je travaille en tant que consultant dans une de ces entreprises partenaires.",
-      "_highlights": [
-        ""
-      ]
+      "_highlights": [""]
     },
     {
       "company": "TAG-IP",
@@ -123,12 +119,10 @@
       "startDate": "2005-11-01",
       "endDate": "2011-08-01",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
-  "awards": [
-  ],
+  "awards": [],
   "publications": [
     {
       "name": "Un dépôt Github comme CV",
@@ -169,18 +163,12 @@
     {
       "name": "Développement Mobile",
       "level": "Avancé",
-      "keywords": [
-        "React Native",
-        "Objective C"
-      ]
+      "keywords": ["React Native", "Objective C"]
     },
     {
       "name": "Automatisation",
       "level": "Avancé",
-      "keywords": [
-        "Jenkins",
-        "Gitlab CI"
-      ]
+      "keywords": ["Jenkins", "Gitlab CI"]
     }
   ],
   "languages": [
@@ -204,19 +192,12 @@
   "interests": [
     {
       "name": "Sport",
-      "keywords": [
-        "Basket-Ball",
-        "Natation"
-      ]
+      "keywords": ["Basket-Ball", "Natation"]
     },
     {
       "name": "Musique",
-      "keywords": [
-        "Guitare basse"
-      ]
+      "keywords": ["Guitare basse"]
     }
   ],
-  "references": [
-    
-  ]
+  "references": []
 }
