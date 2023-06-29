@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mikaoelitiana/resume#readme",
   "dependencies": {
     "jsonresume-theme-kwan": "git+https://github.com/mikaoelitiana/jsonresume-theme-kwan-fr.git",
-    "resume-cli": "^3.0.4",
+    "resume-cli": "^3.0.8",
     "underscore": "^1.13.1",
     "underscore.string": "^3.3.5"
   }
