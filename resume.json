@@ -34,10 +34,21 @@
   },
   "work": [
     {
+      "company": "Busbud",
+      "position": "Senior software engineer",
+      "website": "https://busbud.com",
+      "startDate": "2022-04-26",
+      "summary": "Busbud est un aggregateur de billets de bus dans le monde entier. Son objectif est de faciliter l'accès aux transports durables.",
+      "highlights": [
+        "Stack: React, Typescript, NodeJs, Google Cloud, PostgreSQL"
+      ]
+    },
+    {
       "company": "Alkemics",
       "position": "Senior software engineer",
       "website": "https://alkemics.com",
       "startDate": "2020-10-01",
+      "endDate": "2022-04-25",
       "summary": "Alkemics est une plateforme d'echange de données et de collaboration entre producteurs et distributeurs.",
       "highlights": [
         "Stack: React, Typescript, Python, Go, MySQL, Elastic Search"
