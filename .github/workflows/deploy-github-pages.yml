@@ -18,21 +18,20 @@ jobs:
     needs: check_run
     steps:
       - uses: actions/checkout@v2
-      - uses: kelvintaywl/action-jsonresume-export@v1
-        name: Export resume as HTML
-        with:
-          theme: macchiato
-          resume_filepath: resume.json
-          # modifies the index.html in-place
-          output_filepath: docs/index.html
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.5.2
+      - name: Install Dependencies
+        run: npm i
+      - name: Run export 
+        run: npm run export-html
       - name: Commit published HTML
         id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain docs/index.html)" ]; then
+          if [ -n "$(git status --porcelain index.html)" ]; then
             git add docs/index.html
-            git commit -m "[ci skip] chore(docs/index.html): update resume page"
+            git commit -m "[ci skip] chore(index.html): update resume page"
             echo ::set-output name=exit_code::0
           else
             echo ::set-output name=exit_code::1
