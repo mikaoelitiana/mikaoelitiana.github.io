@@ -21,7 +21,7 @@
   "dependencies": {
     "jsonresume-theme-kwan": "git+https://github.com/mikaoelitiana/jsonresume-theme-kwan-fr.git",
     "resume-cli": "^3.0.8",
-    "underscore": "^1.13.1",
+    "underscore": "^1.13.8",
     "underscore.string": "^3.3.5"
   }
 }
